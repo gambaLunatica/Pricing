@@ -66,7 +66,7 @@ for ($day = 1; $day <= $days_in_month; $day++) {
   <div class="sidebar">
     <h2>Actions</h2>
     <ul>
-      <li><a href="#">Set Price</a></li>
+      <li><a href="priceForm">Set Price</a></li>
       <li><a href="#">Set Closure</a></li>
       <li><a href="#">Set Min Stay</a></li>
     </ul>
